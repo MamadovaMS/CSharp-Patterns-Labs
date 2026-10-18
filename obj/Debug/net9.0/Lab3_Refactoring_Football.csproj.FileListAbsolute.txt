@@ -1,0 +1,14 @@
+C:\Users\mmakh\OneDrive\Desktop\Lab3_OTP\Lab3_Refactoring_Football\Lab3_Refactoring_Football\bin\Debug\net9.0\Lab3_Refactoring_Football.exe
+C:\Users\mmakh\OneDrive\Desktop\Lab3_OTP\Lab3_Refactoring_Football\Lab3_Refactoring_Football\bin\Debug\net9.0\Lab3_Refactoring_Football.deps.json
+C:\Users\mmakh\OneDrive\Desktop\Lab3_OTP\Lab3_Refactoring_Football\Lab3_Refactoring_Football\bin\Debug\net9.0\Lab3_Refactoring_Football.runtimeconfig.json
+C:\Users\mmakh\OneDrive\Desktop\Lab3_OTP\Lab3_Refactoring_Football\Lab3_Refactoring_Football\bin\Debug\net9.0\Lab3_Refactoring_Football.dll
+C:\Users\mmakh\OneDrive\Desktop\Lab3_OTP\Lab3_Refactoring_Football\Lab3_Refactoring_Football\bin\Debug\net9.0\Lab3_Refactoring_Football.pdb
+C:\Users\mmakh\OneDrive\Desktop\Lab3_OTP\Lab3_Refactoring_Football\Lab3_Refactoring_Football\obj\Debug\net9.0\Lab3_Refactoring_Football.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmakh\OneDrive\Desktop\Lab3_OTP\Lab3_Refactoring_Football\Lab3_Refactoring_Football\obj\Debug\net9.0\Lab3_Refactoring_Football.AssemblyInfoInputs.cache
+C:\Users\mmakh\OneDrive\Desktop\Lab3_OTP\Lab3_Refactoring_Football\Lab3_Refactoring_Football\obj\Debug\net9.0\Lab3_Refactoring_Football.AssemblyInfo.cs
+C:\Users\mmakh\OneDrive\Desktop\Lab3_OTP\Lab3_Refactoring_Football\Lab3_Refactoring_Football\obj\Debug\net9.0\Lab3_Refactoring_Football.csproj.CoreCompileInputs.cache
+C:\Users\mmakh\OneDrive\Desktop\Lab3_OTP\Lab3_Refactoring_Football\Lab3_Refactoring_Football\obj\Debug\net9.0\Lab3_Refactoring_Football.dll
+C:\Users\mmakh\OneDrive\Desktop\Lab3_OTP\Lab3_Refactoring_Football\Lab3_Refactoring_Football\obj\Debug\net9.0\refint\Lab3_Refactoring_Football.dll
+C:\Users\mmakh\OneDrive\Desktop\Lab3_OTP\Lab3_Refactoring_Football\Lab3_Refactoring_Football\obj\Debug\net9.0\Lab3_Refactoring_Football.pdb
+C:\Users\mmakh\OneDrive\Desktop\Lab3_OTP\Lab3_Refactoring_Football\Lab3_Refactoring_Football\obj\Debug\net9.0\Lab3_Refactoring_Football.genruntimeconfig.cache
+C:\Users\mmakh\OneDrive\Desktop\Lab3_OTP\Lab3_Refactoring_Football\Lab3_Refactoring_Football\obj\Debug\net9.0\ref\Lab3_Refactoring_Football.dll
