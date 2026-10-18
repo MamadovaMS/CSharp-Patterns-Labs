@@ -1,0 +1,9 @@
+C:\Users\mmakh\OneDrive\Desktop\Lab2.OTP\Lab2_CommandTextEditor\Lab2_CommandTextEditor\obj\Debug\Lab2_CommandTextEditor.csproj.AssemblyReference.cache
+C:\Users\mmakh\OneDrive\Desktop\Lab2.OTP\Lab2_CommandTextEditor\Lab2_CommandTextEditor\obj\Debug\Lab2_CommandTextEditor.Properties.Resources.resources
+C:\Users\mmakh\OneDrive\Desktop\Lab2.OTP\Lab2_CommandTextEditor\Lab2_CommandTextEditor\obj\Debug\Lab2_CommandTextEditor.csproj.GenerateResource.cache
+C:\Users\mmakh\OneDrive\Desktop\Lab2.OTP\Lab2_CommandTextEditor\Lab2_CommandTextEditor\obj\Debug\Lab2_CommandTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\mmakh\OneDrive\Desktop\Lab2.OTP\Lab2_CommandTextEditor\Lab2_CommandTextEditor\bin\Debug\Lab2_CommandTextEditor.exe.config
+C:\Users\mmakh\OneDrive\Desktop\Lab2.OTP\Lab2_CommandTextEditor\Lab2_CommandTextEditor\bin\Debug\Lab2_CommandTextEditor.exe
+C:\Users\mmakh\OneDrive\Desktop\Lab2.OTP\Lab2_CommandTextEditor\Lab2_CommandTextEditor\bin\Debug\Lab2_CommandTextEditor.pdb
+C:\Users\mmakh\OneDrive\Desktop\Lab2.OTP\Lab2_CommandTextEditor\Lab2_CommandTextEditor\obj\Debug\Lab2_CommandTextEditor.exe
+C:\Users\mmakh\OneDrive\Desktop\Lab2.OTP\Lab2_CommandTextEditor\Lab2_CommandTextEditor\obj\Debug\Lab2_CommandTextEditor.pdb
